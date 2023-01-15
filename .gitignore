@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HumProject/.vs
+/HumProject/LaxminTrading/bin/Debug/net6.0
+/HumProject/LaxminTrading/obj
+/HumProject/HumProject/bin/Debug/net6.0
+/HumProject/HumProject/obj
+/.vs/teachoops
+/.vs
