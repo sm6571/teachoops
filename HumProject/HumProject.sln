@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HumProject", "HumProject\HumProject.csproj", "{6A7CC933-7714-48EA-B0FC-935DE8AD466D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaxmiTrading", "LaxminTrading\LaxmiTrading.csproj", "{43A302E0-C4E0-413F-97B4-CB597150BF1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A7CC933-7714-48EA-B0FC-935DE8AD466D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7CC933-7714-48EA-B0FC-935DE8AD466D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7CC933-7714-48EA-B0FC-935DE8AD466D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7CC933-7714-48EA-B0FC-935DE8AD466D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A302E0-C4E0-413F-97B4-CB597150BF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A302E0-C4E0-413F-97B4-CB597150BF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A302E0-C4E0-413F-97B4-CB597150BF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A302E0-C4E0-413F-97B4-CB597150BF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A66523-036B-4117-A582-490C87833194}
+	EndGlobalSection
+EndGlobal
